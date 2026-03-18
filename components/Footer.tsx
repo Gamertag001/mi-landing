@@ -107,7 +107,7 @@ export default function Footer() {
                 href="mailto:hola@wanderlust.com"
                 className="text-white text-sm hover:text-azul-medio transition-colors"
               >
-                hola@wanderlust.com
+                prueba@wanderlust.com
               </a>
             </div>
           </div>
@@ -118,10 +118,10 @@ export default function Footer() {
             <div>
               <p className="text-white/40 text-xs">Teléfono</p>
               <a
-                href="tel:+1800WANDER"
+                href="tel:+573124567890"
                 className="text-white text-sm hover:text-azul-medio transition-colors"
               >
-                +1 800 WANDER
+                +57 312 456 7890
               </a>
             </div>
           </div>
